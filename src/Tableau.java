@@ -3,6 +3,7 @@ public class Tableau {
 	int taille;
 	int []contenu;
 	int tailleactu;
+	int grant;
 
 public Tableau(int taille) {
 		this.taille = taille;
